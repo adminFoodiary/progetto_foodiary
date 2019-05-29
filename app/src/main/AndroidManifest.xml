@@ -29,7 +29,8 @@
             android:label="@string/title_activity_set_info" />
         <activity android:name=".infoActivity" />
         <activity android:name=".visualizzaInfo" />
-        <activity android:name=".modificaInfo"></activity>
+        <activity android:name=".modificaInfo" />
+        <activity android:name=".ricetteActivity" />
     </application>
 
 </manifest>

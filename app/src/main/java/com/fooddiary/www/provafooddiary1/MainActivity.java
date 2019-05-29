@@ -106,9 +106,9 @@ public class MainActivity extends AppCompatActivity
             case R.id.nav_manage:
                 fragment = new infoActivity();
                 break;
-            /*case R.id.nav_gallery:
-                fragment = new visualizzaInfo();
-                break;*/
+            case R.id.nav_slideshow:
+                fragment = new ricetteActivity();
+                break;
            /* case R.id.nav_menu3:
                 fragment = new Menu3();
                 break;*/
